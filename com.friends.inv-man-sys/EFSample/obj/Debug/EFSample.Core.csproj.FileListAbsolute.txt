@@ -1,0 +1,15 @@
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EFSample.Core.dll.config
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EFSample.Core.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EFSample.Core.pdb
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Core.csprojResolveAssemblyReference.cache
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.InitialCreate.resources
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.Add_Address_Trainee.resources
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.Instituation_Add.resources
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Core.csproj.GenerateResource.Cache
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Core.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Core.pdb
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.version3.resources

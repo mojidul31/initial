@@ -1,0 +1,14 @@
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EFSample.exe.config
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EFSample.exe
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EFSample.pdb
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.csprojResolveAssemblyReference.cache
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.exe
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.pdb
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.InitialCreate.resources
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.csproj.GenerateResource.Cache
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.Add_Address_Trainee.resources
+C:\Users\BITM TRAINER-301\Desktop\SEIP.NET\Web App Dot Net\Batch 36\12.02.2017\EFSample\EFSample\obj\Debug\EFSample.Migrations.Instituation_Add.resources
